@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-// useState is used to add the state to the new component/functionalitites
+// useState is used to add the state variable to the new component/functionalitites
 
 function App() {
 
